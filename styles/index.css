@@ -1,0 +1,16 @@
+h1 {
+  font-size: 30px;
+  text-decoration: underline;
+  color: gray;
+}
+
+.link {
+  font-size: 20px;
+  color: #24cf4f;
+}
+
+#section2 {
+  font-size: 20px;
+  width: 400px;
+  background-color: aqua;
+}
